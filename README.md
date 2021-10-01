@@ -19,3 +19,5 @@
 ## Documentación endpoint
 
 Agregue aquí al documentación del endpoint elaborado.
+
+Se hace uso de 2 métodos, uno hace uso del reduce para sumar los valores las alturas y otro para hacer un doble for each para recorrer todos los elementos
